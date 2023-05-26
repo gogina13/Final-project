@@ -3,8 +3,10 @@
         font-size: 130px;
         padding-left: 50px;
     }
+   
     nav ul li a{
         font-size: 16px;
+        
     }
 }
 @media(max-width:858px){
@@ -36,4 +38,5 @@
     #check:checked ~ ul{
         left: 0;
     }
+   
 }
